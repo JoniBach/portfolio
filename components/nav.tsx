@@ -7,5 +7,5 @@ type Props = {
 const Container = styled(motion.div)``;
 
 export const Nav: React.FC<Props> = () => {
-  return <Container>nav</Container>;
+  return <Container>Nav</Container>;
 };
