@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/node": "^17.0.23",
+    "@types/react": "^17.0.42",
     "babel-plugin-module-resolver": "^4.1.0",
     "eslint-import-resolver-babel-module": "^5.3.1",
     "framer-motion": "^6.2.8",
